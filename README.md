@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanavasvb&label=Profile%20views&color=0e75b6&style=flat" alt="shanavasvb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanavasvb" alt="shanavasvb" /></a> </p>
 
 - 🔭 I’m currently working on **Termigram**
 
@@ -11,7 +10,6 @@
 
 - 📫 How to reach me **shanavasvbasheer@gmail.com**
 
-- ⚡ Fun fact **I enjoy participating in hackathons, where you can learn to think on your feet and implement solutions under pressure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
