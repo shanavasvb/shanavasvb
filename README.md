@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanavas V Basheer</h1>
 <h3 align="center">A passionate developer from India, Trying for new oppurtunities</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanavasvb&label=Profile%20views&color=0e75b6&style=flat" alt="shanavasvb" /> </p>
+<div align="center"><b>Profile visit counts<b><br><img src="https://profile-counter.glitch.me/kiiirtiiii/count.svg"></div>
 
 
 - 🔭 I’m currently working on **Termigram**
