@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanavasvb
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Bsc Computer Science
+- 🌱 I’m currently learning Go lang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
