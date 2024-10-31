@@ -8,7 +8,7 @@
 <div align="center"><b>Profile visit counts<b><br><img src="https://profile-counter.glitch.me/shanavasvb/count.svg"></div>
 
 
-- 🔭 I’m currently working on **Termigram**
+- 🔭 I’m currently studying on **Cusat**
 
 - 🌱 I’m currently learning **Go lang**
 
