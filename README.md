@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">🎮 My GitHub Breakout</h3>
+
 
 <p align="center">
   <picture>
