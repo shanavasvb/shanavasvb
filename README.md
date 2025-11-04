@@ -50,11 +50,11 @@ JavaScript  •  C++  •  Dart  •  Java
 <div align="center">
 
 ### 📈 GitHub Analytics
-
+<img width="90%" src="https://streak-stats.demolab.com?user=shanavasvb&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&v=6" alt="GitHub Streak" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanavasvb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanavasvb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=shanavasvb&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&v=6" alt="GitHub Streak" />
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=shanavasvb&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
