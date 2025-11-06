@@ -50,7 +50,7 @@ JavaScript  •  C++  •  Dart  •  Java
 <div align="center">
 
 ### 📈 GitHub Analytics
-![GitHub Streak](https://streak-stats.demolab.com?user=shanavasvb&theme=cyber-streakglow)
+![GitHub Streak](https://streak-stats.demolab.com?user=shanavasvb&theme=shadow-purple)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanavasvb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanavasvb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
 
