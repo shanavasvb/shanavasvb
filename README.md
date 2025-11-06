@@ -51,10 +51,9 @@ JavaScript  •  C++  •  Dart  •  Java
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="60px" alt="🔥" />
+  <img src="https://media.giphy.com/media/l0HlCaPlfcUy4vDKo/giphy.gif" width="60px" alt="🔥" />
   <br>
   <img src="https://streak-stats.demolab.com?user=shanavasvb&theme=shadow-purple" />
-</div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanavasvb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanavasvb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
