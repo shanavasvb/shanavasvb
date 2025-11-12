@@ -10,7 +10,7 @@
 ```
 ### Application Developer • India 🇮🇳
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+seamless+mobile+experiences;Flutter+%E2%80%A2+Swift+%E2%80%A2+Kotlin;Cross-platform+architecture+enthusiast" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+seamless+mobile+apps;React+%E2%80%A2+Swift+%E2%80%A2+Kotlin;" alt="Typing Animation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanavasvbasheer)
 [![Email](https://img.shields.io/badge/Email-shanavasvbasheer%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:shanavasvbasheer@gmail.com)
