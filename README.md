@@ -42,7 +42,7 @@ Spring Framework  •  Firebase  •  AWS  •  MongoDB  •  MySQL
 
 **Languages**
 ```
-JavaScript  •  C++  •  Dart  •  Java
+JavaScript  •  C++   •  Java
 ```
 
 ---
