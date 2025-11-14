@@ -69,7 +69,7 @@ JavaScript  •  C++   •  Java
 
 <div align="center">
 
-### 💡 Philosophy
+### 💡 Random Quote
 
 *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
 
