@@ -37,7 +37,7 @@ Flutter  •  Swift  •  Kotlin  •  Android SDK  •  React Native
 
 **Backend & Cloud**
 ```
-Spring Framework  •  Firebase  •  AWS  •  MongoDB  •  MySQL
+•  Firebase  •  AWS  •  MongoDB  •  MySQL
 ```
 
 **Languages**
