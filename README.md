@@ -8,7 +8,7 @@
 ██████╔╝██║░░██║██║░░██║██║░╚███║██║░░██║░░╚██╔╝░░██║░░██║██████╔╝
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░
 ```
-### Application Developer • India 
+### Application Developer • India
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+seamless+mobile+apps;React+%E2%80%A2+Swift+%E2%80%A2+Kotlin;" alt="Typing Animation" />
 
