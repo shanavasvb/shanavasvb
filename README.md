@@ -37,12 +37,12 @@ Flutter  •  Swift  •  Kotlin  •  Android SDK  •  React Native
 
 **Backend & Cloud**
 ```
-•  Firebase  •  AWS  •  MongoDB  •  MySQL
+•  Firebase  •  AWS  •  MongoDB  •
 ```
 
 **Languages**
 ```
-JavaScript  •  C++   •  Java
+JavaScript  •  C++   
 ```
 
 ---
